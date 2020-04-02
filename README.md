@@ -1,4 +1,5 @@
 # <center>Interactive analysis of molecular motors motion using a Jupyter notebook</center>
+[![DOI](https://zenodo.org/badge/246542087.svg)](https://zenodo.org/badge/latestdoi/246542087)
 ## <center>Ivan Unksov</center> 
 ### <center>ivan.unksov@ftf.lth.se</center> 
 
