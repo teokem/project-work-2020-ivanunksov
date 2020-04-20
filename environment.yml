@@ -1,0 +1,19 @@
+name: LMtracking
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - scipy
+  - seaborn
+  - pip
+  - xlrd
+  - cryptography
+  - simplegeneric
+  - cython
+  - geopandas
