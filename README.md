@@ -25,17 +25,9 @@ Notebook outputs a .csv file 'TAMSD' with TA MSDs values and an image 'TAMSD&alp
 
 # How to run the notebook
 
-Before running the notebook, make sure the sample trajectories file `Vertical_in_channels_1000s&longer_140220.csv` and environment file `environment.yml` are in the working directory of the notebook. To install and activate the environment, in the prompt switch (if needed) to your working directory by typing 
-   ```bash 
-    cd "your path"
-    ```  
-and then run:
+Before running the notebook, make sure the sample trajectories file `Vertical_in_channels_1000s&longer_140220.csv` and environment file [`environment.yml`](/environment.yml) are in the working directory of the notebook. To install and activate the environment, run in the `prompt`:
+
    ```bash
-    conda env create -f environment.yml
-    conda activate LMtracking
-    ```
-
-
-```python
-
-```
+   conda env create -f environment.yml
+   activate LMtracking
+   ```
